@@ -1,0 +1,1 @@
+function[pot] = interference_potential(t, x, y, )
